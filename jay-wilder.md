@@ -56,8 +56,8 @@ education:
     degree: Industrial Engineering
 
 projects:
-  - name: Inventory Management
-    desc: This app tracks all material movements for products in a warehouse and exports inventory reports as a CSV file.
-    url: https://jayswilder.io/inventory-management
+  - name: Online Education Platform
+    desc: This app is designed for teachers to create lessons and presentations.
+    url: https://jayswilder.io/
 
 ---
